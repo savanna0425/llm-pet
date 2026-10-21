@@ -33,6 +33,8 @@
 
 例如，安装 ChatGPT 成熟版后，`pets/chatgpt-mature/` 中应有 `pet.json` 和 `spritesheet.webp` 两个文件。预览 GIF 不需要复制。当前使用直接复制安装，不需要 Node.js 或 npm。
 
+如果此前安装过本项目旧版，旧目录不会自动改名。确认新版可以使用后，可手动移除旧版目录，避免在宠物列表中重复显示。
+
 ## 交给 Agent 一键安装
 
 复制下面这段话，发送给能操作本机文件的 Codex Agent。把“ChatGPT 成熟版”换成上表中想要的模型和版本即可。
