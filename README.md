@@ -10,13 +10,13 @@
 | --- | --- | --- |
 | ChatGPT | [预览](previews/chatgpt-mature.gif) · `chatgpt-mature` | [预览](previews/chatgpt-chibi.gif) · `chatgpt-chibi` |
 | Claude | [预览](previews/claude-mature.gif) · `claude-mature` | [预览](previews/claude-chibi.gif) · `claude-chibi` |
-| DeepSeek | [预览](previews/deepseek-mature.gif) · `deepseek-mature` | [预览](previews/deepseek-chibi.gif) · `deepseek-chibi` |
+| DeepSeek（蓝色大肥鱼） | [预览](previews/deepseek-mature.gif) · `deepseek-mature` | [预览](previews/deepseek-chibi.gif) · `deepseek-chibi` |
 | Gemini | [预览](previews/gemini-mature.gif) · `gemini-mature` | [预览](previews/gemini-chibi.gif) · `gemini-chibi` |
 
 <p align="center">
   <img src="previews/chatgpt-mature.gif" alt="ChatGPT 成熟版待机动画" width="140">
   <img src="previews/claude-mature.gif" alt="Claude 成熟版待机动画" width="140">
-  <img src="previews/deepseek-mature.gif" alt="DeepSeek 成熟版待机动画" width="140">
+  <img src="previews/deepseek-mature.gif" alt="DeepSeek 蓝色大肥鱼成熟版待机动画" width="140">
   <img src="previews/gemini-mature.gif" alt="Gemini 成熟版待机动画" width="140">
 </p>
 
