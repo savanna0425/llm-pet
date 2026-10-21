@@ -1,6 +1,6 @@
 {
-  "id": "gemini-starcat-chibi",
-  "displayName": "Gemini 星猫 · Q版",
+  "id": "gemini-chibi",
+  "displayName": "Gemini 宠物 · Q 版",
   "description": "蓝紫色头发、异色瞳与星形装饰的 Q 版猫主题桌宠。",
   "spritesheetPath": "spritesheet.webp"
 }

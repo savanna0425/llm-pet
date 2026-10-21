@@ -1,6 +1,6 @@
 {
-  "id": "claude-scholar-chibi",
-  "displayName": "Claude 橙花 · Q版",
+  "id": "claude-chibi",
+  "displayName": "Claude 宠物 · Q 版",
   "description": "橙发与花饰的 Q 版书卷主题桌宠，手持书本。",
   "spritesheetPath": "spritesheet.webp"
 }
