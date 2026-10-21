@@ -1,6 +1,6 @@
 {
-  "id": "gemini-mature",
-  "displayName": "Gemini 宠物 · 成熟版",
+  "id": "gemini-standard",
+  "displayName": "Gemini 宠物 · 标准版",
   "description": "蓝紫色头发、异色瞳与星形装饰的猫主题桌宠。",
   "spritesheetPath": "spritesheet.webp"
 }
