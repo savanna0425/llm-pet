@@ -1,6 +1,6 @@
 {
-  "id": "deepseek-whale-mature",
-  "displayName": "DeepSeek 蓝色大肥鱼 · 标准版",
+  "id": "deepseek-mature",
+  "displayName": "DeepSeek 宠物 · 成熟版",
   "description": "蓝发、鲸鳍与鲸尾的海洋主题桌宠。",
   "spritesheetPath": "spritesheet.webp"
 }

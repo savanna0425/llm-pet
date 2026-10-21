@@ -1,6 +1,6 @@
 {
-  "id": "claude-scholar-mature",
-  "displayName": "Claude 橙花 · 标准版",
+  "id": "claude-mature",
+  "displayName": "Claude 宠物 · 成熟版",
   "description": "橙发与花饰的书卷主题桌宠，手持书本。",
   "spritesheetPath": "spritesheet.webp"
 }
