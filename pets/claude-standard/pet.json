@@ -1,6 +1,6 @@
 {
-  "id": "claude-mature",
-  "displayName": "Claude 宠物 · 成熟版",
+  "id": "claude-standard",
+  "displayName": "Claude 宠物 · 标准版",
   "description": "橙发与花饰的书卷主题桌宠，手持书本。",
   "spritesheetPath": "spritesheet.webp"
 }
