@@ -1,6 +1,6 @@
 # llm-pet
 
-可在 Codex 中使用的 ChatGPT、Claude、DeepSeek、Gemini、Grok、GLM、Kimi 动画桌宠。每组都有标准版和 Q 版，共 14 个版本。每个版本包含 9 种动作：待机、向右移动、向左移动、招手、跳跃、失败、等待、工作和审查。
+可在 Codex 中使用的 ChatGPT、Claude、DeepSeek、Gemini、Grok、GLM、Kimi、Qwen 动画桌宠。每组都有标准版和 Q 版，共 16 个版本。每个版本包含 9 种动作：待机、向右移动、向左移动、招手、跳跃、失败、等待、工作和审查。
 
 > 形象原创作者：B 站 UP 主 **[ZipZipPipe](https://space.bilibili.com/4168597)**。DeepSeek 形象还基于 **上善** 的鲸鱼角色设定。使用和再分享前请阅读[署名与使用条件](NOTICE.md)：**标注作者、仅限非商业用途**；DeepSeek 素材另遵循 **CC BY-NC-SA 4.0**。这些是同人桌宠，与各模型公司没有官方关联。
 
@@ -15,6 +15,7 @@
 | Grok | [预览](previews/grok-standard.gif) · `grok-standard` | [预览](previews/grok-chibi.gif) · `grok-chibi` |
 | GLM | [预览](previews/glm-standard.gif) · `glm-standard` | [预览](previews/glm-chibi.gif) · `glm-chibi` |
 | Kimi | [预览](previews/kimi-standard.gif) · `kimi-standard` | [预览](previews/kimi-chibi.gif) · `kimi-chibi` |
+| Qwen | [预览](previews/qwen-standard.gif) · `qwen-standard` | [预览](previews/qwen-chibi.gif) · `qwen-chibi` |
 
 <p align="center">
   <img src="previews/chatgpt-standard.gif" alt="ChatGPT 标准版待机动画" width="140">
@@ -24,6 +25,7 @@
   <img src="previews/grok-standard.gif" alt="Grok 标准版待机动画" width="140">
   <img src="previews/glm-standard.gif" alt="GLM 标准版待机动画" width="140">
   <img src="previews/kimi-standard.gif" alt="Kimi 标准版待机动画" width="140">
+  <img src="previews/qwen-standard.gif" alt="Qwen 标准版待机动画" width="140">
 </p>
 
 预览只展示待机动作；安装文件包含全部 9 种动作。
