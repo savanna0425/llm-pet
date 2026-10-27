@@ -17,16 +17,13 @@
 | Kimi | [预览](previews/kimi-standard.gif) · `kimi-standard` | [预览](previews/kimi-chibi.gif) · `kimi-chibi` |
 | Qwen | [预览](previews/qwen-standard.gif) · `qwen-standard` | [预览](previews/qwen-chibi.gif) · `qwen-chibi` |
 
-<p align="center">
-  <img src="previews/chatgpt-standard.gif" alt="ChatGPT 标准版待机动画" width="140">
-  <img src="previews/claude-standard.gif" alt="Claude 标准版待机动画" width="140">
-  <img src="previews/deepseek-standard.gif" alt="DeepSeek 蓝色大肥鱼标准版待机动画" width="140">
-  <img src="previews/gemini-standard.gif" alt="Gemini 标准版待机动画" width="140">
-  <img src="previews/grok-standard.gif" alt="Grok 标准版待机动画" width="140">
-  <img src="previews/glm-standard.gif" alt="GLM 标准版待机动画" width="140">
-  <img src="previews/kimi-standard.gif" alt="Kimi 标准版待机动画" width="140">
-  <img src="previews/qwen-standard.gif" alt="Qwen 标准版待机动画" width="140">
-</p>
+### 标准版预览
+
+| ChatGPT | Claude | DeepSeek | Gemini |
+| :---: | :---: | :---: | :---: |
+| <img src="previews/chatgpt-standard.gif" alt="ChatGPT 标准版待机动画" width="140" height="152"> | <img src="previews/claude-standard.gif" alt="Claude 标准版待机动画" width="140" height="152"> | <img src="previews/deepseek-standard.gif" alt="DeepSeek 蓝色大肥鱼标准版待机动画" width="140" height="152"> | <img src="previews/gemini-standard.gif" alt="Gemini 标准版待机动画" width="140" height="152"> |
+| Grok | GLM | Kimi | Qwen |
+| <img src="previews/grok-standard.gif" alt="Grok 标准版待机动画" width="140" height="152"> | <img src="previews/glm-standard.gif" alt="GLM 标准版待机动画" width="140" height="152"> | <img src="previews/kimi-standard.gif" alt="Kimi 标准版待机动画" width="140" height="152"> | <img src="previews/qwen-standard.gif" alt="Qwen 标准版待机动画" width="140" height="152"> |
 
 预览只展示待机动作；安装文件包含全部 9 种动作。
 
