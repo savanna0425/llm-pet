@@ -1,6 +1,6 @@
 # llm-pet
 
-可在 Codex 中使用的 ChatGPT、Claude、DeepSeek、Gemini、Grok、GLM、Kimi、Qwen、Doubao、文心（ERNIE）动画桌宠。每组都有标准版和 Q 版，共 20 个版本。每个版本包含 9 种动作：待机、向右移动、向左移动、招手、跳跃、失败、等待、工作和审查。
+可在 Codex 中使用的 ChatGPT、Claude、DeepSeek、Gemini、Grok、GLM、Kimi、Qwen、Doubao、文心（ERNIE）、MiniMax 动画桌宠。每组都有标准版和 Q 版，共 22 个版本。每个版本包含 9 种动作：待机、向右移动、向左移动、招手、跳跃、失败、等待、工作和审查。
 
 > 形象原创作者：B 站 UP 主 **[ZipZipPipe](https://space.bilibili.com/4168597)**。DeepSeek 形象还基于 **上善** 的鲸鱼角色设定。使用和再分享前请阅读[署名与使用条件](NOTICE.md)：**标注作者、仅限非商业用途**；DeepSeek 素材另遵循 **CC BY-NC-SA 4.0**。这些是同人桌宠，与各模型公司没有官方关联。
 
@@ -18,6 +18,7 @@
 | Qwen | [预览](previews/qwen-standard.gif) · `qwen-standard` | [预览](previews/qwen-chibi.gif) · `qwen-chibi` |
 | Doubao | [预览](previews/doubao-standard.gif) · `doubao-standard` | [预览](previews/doubao-chibi.gif) · `doubao-chibi` |
 | 文心（ERNIE） | [预览](previews/ernie-standard.gif) · `ernie-standard` | [预览](previews/ernie-chibi.gif) · `ernie-chibi` |
+| MiniMax | [预览](previews/minimax-standard.gif) · `minimax-standard` | [预览](previews/minimax-chibi.gif) · `minimax-chibi` |
 
 ### 标准版预览
 
@@ -32,6 +33,8 @@
 | <img src="previews/kimi-standard.gif" alt="Kimi 标准版待机动画" width="140" height="152"> | <img src="previews/qwen-standard.gif" alt="Qwen 标准版待机动画" width="140" height="152"> |
 | Doubao | 文心（ERNIE） |
 | <img src="previews/doubao-standard.gif" alt="Doubao 标准版待机动画" width="140" height="152"> | <img src="previews/ernie-standard.gif" alt="文心 ERNIE 标准版待机动画" width="140" height="152"> |
+| MiniMax |  |
+| <img src="previews/minimax-standard.gif" alt="MiniMax 标准版待机动画" width="140" height="152"> |  |
 
 预览只展示待机动作；安装文件包含全部 9 种动作。
 
