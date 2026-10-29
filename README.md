@@ -1,6 +1,6 @@
 # llm-pet
 
-可在 Codex 中使用的 ChatGPT、Claude、DeepSeek、Gemini、Grok、GLM、Kimi、Qwen、Doubao、文心（ERNIE）、MiniMax、腾讯混元动画桌宠。每组都有标准版和 Q 版，共 24 个版本。每个版本包含 9 种动作：待机、向右移动、向左移动、招手、跳跃、失败、等待、工作和审查。
+可在 Codex 中使用的 ChatGPT、Claude、DeepSeek、Gemini、Grok、GLM、Kimi、Qwen、Doubao、文心（ERNIE）、MiniMax、腾讯混元、Meta Muse、MiMo、Mistral 动画桌宠。每组都有标准版和 Q 版，共 30 个版本。每个版本包含 9 种动作：待机、向右移动、向左移动、招手、跳跃、失败、等待、工作和审查。
 
 > 形象原创作者：B 站 UP 主 **[ZipZipPipe](https://space.bilibili.com/4168597)**。DeepSeek 形象还基于 **上善** 的鲸鱼角色设定。使用和再分享前请阅读[署名与使用条件](NOTICE.md)：**标注作者、仅限非商业用途**；DeepSeek 素材另遵循 **CC BY-NC-SA 4.0**。这些是同人桌宠，与各模型公司没有官方关联。
 
@@ -20,22 +20,23 @@
 | 文心（ERNIE） | [预览](previews/ernie-standard.gif) · `ernie-standard` | [预览](previews/ernie-chibi.gif) · `ernie-chibi` |
 | MiniMax | [预览](previews/minimax-standard.gif) · `minimax-standard` | [预览](previews/minimax-chibi.gif) · `minimax-chibi` |
 | 腾讯混元 | [预览](previews/hunyuan-standard.gif) · `hunyuan-standard` | [预览](previews/hunyuan-chibi.gif) · `hunyuan-chibi` |
+| Meta Muse | [预览](previews/metamuse-standard.gif) · `metamuse-standard` | [预览](previews/metamuse-chibi.gif) · `metamuse-chibi` |
+| MiMo | [预览](previews/mimo-standard.gif) · `mimo-standard` | [预览](previews/mimo-chibi.gif) · `mimo-chibi` |
+| Mistral | [预览](previews/mistral-standard.gif) · `mistral-standard` | [预览](previews/mistral-chibi.gif) · `mistral-chibi` |
 
 ### 标准版预览
 
-| ChatGPT | Claude |
-| :---: | :---: |
-| <img src="previews/chatgpt-standard.gif" alt="ChatGPT 标准版待机动画" width="140" height="152"> | <img src="previews/claude-standard.gif" alt="Claude 标准版待机动画" width="140" height="152"> |
-| DeepSeek | Gemini |
-| <img src="previews/deepseek-standard.gif" alt="DeepSeek 蓝色大肥鱼标准版待机动画" width="140" height="152"> | <img src="previews/gemini-standard.gif" alt="Gemini 标准版待机动画" width="140" height="152"> |
-| Grok | GLM |
-| <img src="previews/grok-standard.gif" alt="Grok 标准版待机动画" width="140" height="152"> | <img src="previews/glm-standard.gif" alt="GLM 标准版待机动画" width="140" height="152"> |
-| Kimi | Qwen |
-| <img src="previews/kimi-standard.gif" alt="Kimi 标准版待机动画" width="140" height="152"> | <img src="previews/qwen-standard.gif" alt="Qwen 标准版待机动画" width="140" height="152"> |
-| Doubao | 文心（ERNIE） |
-| <img src="previews/doubao-standard.gif" alt="Doubao 标准版待机动画" width="140" height="152"> | <img src="previews/ernie-standard.gif" alt="文心 ERNIE 标准版待机动画" width="140" height="152"> |
-| MiniMax | 腾讯混元 |
-| <img src="previews/minimax-standard.gif" alt="MiniMax 标准版待机动画" width="140" height="152"> | <img src="previews/hunyuan-standard.gif" alt="腾讯混元标准版待机动画" width="140" height="152"> |
+| ChatGPT | Claude | DeepSeek |
+| :---: | :---: | :---: |
+| <img src="previews/chatgpt-standard.gif" alt="ChatGPT 标准版待机动画" width="140" height="152"> | <img src="previews/claude-standard.gif" alt="Claude 标准版待机动画" width="140" height="152"> | <img src="previews/deepseek-standard.gif" alt="DeepSeek 蓝色大肥鱼标准版待机动画" width="140" height="152"> |
+| Gemini | Grok | GLM |
+| <img src="previews/gemini-standard.gif" alt="Gemini 标准版待机动画" width="140" height="152"> | <img src="previews/grok-standard.gif" alt="Grok 标准版待机动画" width="140" height="152"> | <img src="previews/glm-standard.gif" alt="GLM 标准版待机动画" width="140" height="152"> |
+| Kimi | Qwen | Doubao |
+| <img src="previews/kimi-standard.gif" alt="Kimi 标准版待机动画" width="140" height="152"> | <img src="previews/qwen-standard.gif" alt="Qwen 标准版待机动画" width="140" height="152"> | <img src="previews/doubao-standard.gif" alt="Doubao 标准版待机动画" width="140" height="152"> |
+| 文心（ERNIE） | MiniMax | 腾讯混元 |
+| <img src="previews/ernie-standard.gif" alt="文心 ERNIE 标准版待机动画" width="140" height="152"> | <img src="previews/minimax-standard.gif" alt="MiniMax 标准版待机动画" width="140" height="152"> | <img src="previews/hunyuan-standard.gif" alt="腾讯混元标准版待机动画" width="140" height="152"> |
+| Meta Muse | MiMo | Mistral |
+| <img src="previews/metamuse-standard.gif" alt="Meta Muse 标准版待机动画" width="140" height="152"> | <img src="previews/mimo-standard.gif" alt="MiMo 标准版待机动画" width="140" height="152"> | <img src="previews/mistral-standard.gif" alt="Mistral 标准版待机动画" width="140" height="152"> |
 
 预览只展示待机动作；安装文件包含全部 9 种动作。
 
